@@ -1,13 +1,18 @@
 ## Gender Diversity on IRC
 
-This is a project to support non-men on IRC.
+GD-IRC is a project/community for promoting and supporting gender diversity on IRC.
+
+## Code of Conduct
+
+TBD.
 
 ## Plans
 
 The current plans are:
 
-- [How to openly display gender on IRC](./gender-spec.md)
+- [On Visible Gender Diversity Itself](./gender-spec.md)
+- [On Supporting Gender Diversity](./gender-enthusiasts.md)
 
 ## More
 
-Meet us on [Discord](https://discord.gg/taZy7SRHWa) or IRC (libera.chat, #genderdiversity)!
+For project discussion, meet us on IRC (libera.chat, #genderdiversity) or [Discord](https://discord.gg/taZy7SRHWa)! For suggestions, use the [GitHub](https://github.com/gd-irc/gd-irc.github.io)! Feedback always welcome!
