@@ -19,4 +19,4 @@ For project discussion, meet us on IRC (libera.chat, #genderdiversity) or [Disco
 
 ## Who's behind this?
 
-This project is being put together by [SoniEx2](https://github.com/SoniEx2), with those who submit and review issues and pull requests!
+This project is being put together by [SoniEx2](https://github.com/SoniEx2), with contributions from those who submit and review issues and pull requests!
