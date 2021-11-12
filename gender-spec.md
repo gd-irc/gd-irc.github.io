@@ -13,3 +13,9 @@ On that note, IRC client developers are encouraged to omit the wording "realname
 But this is an unacceptable way to display it:
 
 - Soni (realname: Genders: ♾️, 🟪⬜🟩; Soni L.)
+
+### Rationale
+
+- On Genders instead of Pronouns, by Soni:
+    
+    > There are many reasons to go with genders instead of pronouns. The project is about diversity of gender, so it makes sense that it would care about gender. Also, this isn't upholding the gender binary - in fact, it even acknowledges having *multiple* genders. But one of the things that stands out is that a huge amount of genderqueer and nonbinary ppl actually use she/her and he/him pronouns, and making it about pronouns would erase their genders. Indeed, we (Soni) use she/her and they/them, so if it were about pronouns, we'd look like any cis or trans woman.
