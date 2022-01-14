@@ -12,6 +12,7 @@ The current plans are:
 
 - [On Visible Gender Diversity Itself](./gender-spec.md)
 - [On Supporting Gender Diversity](./gender-enthusiasts.md)
+- [Renaming "Realname" to "Userdata"](./userdata-spec.md)
 
 ## More
 
