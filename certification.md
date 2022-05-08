@@ -19,4 +19,5 @@ stuff like this:
 > with contributions from the trans, furry, autistic communities".
 
 IRC channels may only be certified if the IRC network they belong to is also
-certified.
+certified, as there's no point in having a certified channel if network staff
+would just ban everyone in it.
