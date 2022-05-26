@@ -4,7 +4,26 @@ GD-IRC is a project/community for promoting and supporting gender diversity on I
 
 ## Code of Conduct
 
-TBD.
+Instead of having a strict code of conduct, we have opted to go with examples
+of Encouraged, Discouraged and Unacceptable behaviours. Additionally, this list
+is intended to change and be added to over time.
+
+### Encouraged Behaviours
+
+- If you believe an issue needs to be formally addressed as it could have a
+    direct impact on GD-IRC operations, reach out to us.
+- There is no one way to define, communicate, or enforce boundaries. Be
+    understanding of different ways to formulate and communicate boundaries and
+    do not insist on everyone using the same coherent language.
+
+### Discouraged Behaviours
+
+### Unacceptable Behaviours
+
+- Blocking someone and continuing to engage with them, especially after they
+    already stopped engaging with you and have requested that you do the same.
+    - We do not care if they have a past, they already stopped interacting with
+        you.
 
 ## Plans
 
